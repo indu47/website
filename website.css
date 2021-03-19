@@ -1,0 +1,38 @@
+
+img,h1,h6
+{
+  background-color:rgb(44, 218, 241);
+  text-align:center;
+}
+.menu {
+  float:left;
+  width:20%;
+  text-align:center;
+}
+.menu a {
+  background-color:red;
+  padding:8px;
+  margin-top:7px;
+  display:block;
+  width:80%;
+  color:black;
+}
+ .carousel-inner img {
+  
+    width:100%;
+    height:50%;
+  }
+  
+  
+  .right {
+  background-color:blue;
+  float:left;
+  width:20%;
+  padding:15px;
+  margin-top:7px;
+  text-align:center;
+  }
+  marquee
+  {
+    background-color:white;
+  }
